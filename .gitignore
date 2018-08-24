@@ -1,1 +1,3 @@
-mars.txtO
+*.dat
+results/
+log_[d]*
